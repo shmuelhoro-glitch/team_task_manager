@@ -1,1 +1,1 @@
-Create Login Page - HIGH
+Create Login Page - MEDIUM
